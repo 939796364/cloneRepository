@@ -5,3 +5,4 @@ now,i git checkout -b dev2
 creating a new branch is quick $ simple
 --no-ff merge
 bug fixed
+show log
